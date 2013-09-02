@@ -1,0 +1,19 @@
+{
+  "name": "mlebkowski/wsdl-generator",
+  "require": {
+    "zendframework/zend-code": "~2.2"
+  },
+  "authors": [
+    {
+      "name": "Maciej Łebkowski",
+      "email": "m.lebkowski@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "description": "Tries to dump a WSDL client",
+  "autoload": {
+    "psr-0": {
+      "Nassau": "src/"
+    }
+  }
+}
